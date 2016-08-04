@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApi</string>
+    <string name="action_settings">Settings</string>
+    <string name="loadPictures">Get Pictures</string>
+    <string name="toolbarTitle">testapi.us</string>
+    <string name="left"><![CDATA[<]]></string>
+    <string name="right"><![CDATA[>]]></string>
+</resources>
